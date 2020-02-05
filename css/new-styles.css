@@ -1,0 +1,42 @@
+body {
+  background-color:lightskyblue;
+}
+
+h1 {
+  font-family:'Lucida Sans';
+  color:darkblue
+}
+
+h2 {
+  font-family:cursive;
+  color:darkviolet;
+}
+
+ul {
+  font-size:30px;
+  color:darkolivegreen;
+}
+
+ol {
+  font-size:30px;
+  color:darkolivegreen;
+}
+
+p {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:25px;
+  color:darkgreen;
+}
+
+em {
+  color:orchid;
+}
+
+strong {
+  color:peru;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+}

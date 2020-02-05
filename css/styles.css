@@ -1,0 +1,41 @@
+h1 {
+  color:blue;
+  text-align:center;
+}
+
+h2 {
+  color:green;
+  font-style:italic;
+  text-align:center;
+}
+
+p {
+  color:white;
+  font-family:sans-serif;
+  line-height:1.5;
+}
+
+ul {
+  color:white;
+  line-height:40px;
+  font-family:cursive;
+  font-weight:bold;
+}
+
+/*ol{
+  color:white;
+} */
+
+body {
+  background-color:black;
+}
+
+strong {
+  font-weight:normal;
+  font-style:italic;
+}
+
+em {
+  font-style:normal;
+  font-weight:bold;
+}
