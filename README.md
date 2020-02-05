@@ -3,5 +3,5 @@
 #### By Joshua Warui
 ## Description
 This webpage was created to practice html.
-## Tecgnologies Used
+## Technologies Used
 Html only.
